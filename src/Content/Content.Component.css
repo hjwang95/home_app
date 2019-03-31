@@ -1,0 +1,17 @@
+.homeContent{
+  text-align: center;
+  font-size: 600%;
+  font-family: serif;
+  font-weight: bold;
+  color: rgb(88, 25, 25)
+}
+.homeIntro{
+  text-align: center;
+  font-size: 60%;
+  font-family: serif;
+  font-weight: bold;
+  color: rgb(88, 25, 25)
+}
+/* .row-height{
+  height: 100%;
+} */

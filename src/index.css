@@ -6,9 +6,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.homeBackground{
+  background-color: beige;
+  /* background-image:url(https://image.freepik.com/free-vector/abstract-design-background_1048-6726.jpg); */
+}
+
+html,#root{
+  height: 100%;
 }

@@ -13,7 +13,7 @@ class TitleElement extends Component{
         var pageUrl =  '/' + pageName + ".html";
 
         if( pageName === 'Home'){
-            pageUrl =  '/' ;
+            pageUrl =  'https://hjwang95.github.io/home_app/' ;
         }
         window.location.assign(pageUrl);
         console.log(pageUrl);

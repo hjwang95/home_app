@@ -1,0 +1,41 @@
+.head {
+    padding-bottom: 270px;
+}
+
+.content {
+    /* position: relative;
+    height: 500px; */
+}
+
+.p0{
+    text-align: center;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 150px;
+    color: #581919;
+}
+
+.p1 {
+    text-align: center;
+    font-family: serif;
+    color: #581919;
+}
+
+.projectHide .projectPop {
+}
+
+.projectHide {
+    
+}
+
+.projectCard {
+   
+}
+
+.left-margin-10 {
+    padding: 50px 50px 50px 50px ;
+}
+
+.background-color-light-blue{
+    background-color: rgb(222, 241, 247);
+}
